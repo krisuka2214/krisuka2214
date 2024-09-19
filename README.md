@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 <br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krisuka2214&show_icons=true&locale=en&layout=compact" alt="krisuka2214" /></p>
-<br><br><br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=krisuka2214&show_icons=true&locale=en" alt="krisuka2214" /></p>
 <br><br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krisuka2214&" alt="krisuka2214" /></p>
