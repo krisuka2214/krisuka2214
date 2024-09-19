@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisuka2214" alt="krisuka2214" /></a> </p>
+
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
