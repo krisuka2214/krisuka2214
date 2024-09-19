@@ -11,7 +11,7 @@ krisuka2214/krisuka2214 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisuka2214&label=Profile%20views&color=0e75b6&style=flat" alt="krisuka2214" /> </p>
 
