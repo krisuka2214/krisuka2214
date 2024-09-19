@@ -13,10 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krisuka2214&label=Profile%20views&color=0e75b6&style=flat" alt="krisuka2214" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisuka2214" alt="krisuka2214" /></a> </p>
-<br><br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/krisuka2214" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="krisuka2214" height="30" width="40" /></a>
