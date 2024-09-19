@@ -1,3 +1,7 @@
+<h3 align="center">A passionate software developer from India</h3>
+
+
+
 - 👋 Hi, I’m @krisuka2214
 - 👀 I’m interested in SDE roles
 - 🌱 I’m currently learning C# and polishing my DSA
@@ -11,7 +15,7 @@ krisuka2214/krisuka2214 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">A passionate software developer from India</h3>
+
 
 
 
